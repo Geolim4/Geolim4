@@ -12,3 +12,4 @@ Ohhh and while you seem to enjoy your stay on my profile, have a nice day 🤗
 
 <a href="https://metrics.lecoq.io/about/Geolim4"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
 <a href="https://metrics.lecoq.io/about/Geolim4"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
+<a href="https://metrics.lecoq.io/about/Geolim4"><img src="metrics-languages.svg" align="center" width="100%"></img></a>
